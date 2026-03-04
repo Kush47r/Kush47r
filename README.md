@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kush47r
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Java
-- 📫 You can reach me on my mailid upadhyayakushagra4@gmail.com
+- 👋 Hi, I’m Kushagra Upadhyaya
+- 👀 I’m an Aspiring Data Engineer
+- 🌱 I’m currently learning AWS
+- 📫 You can reach me on my mail id upadhyayakushagra4@gmail.com
 
 <!---
 Kush47r/Kush47r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
