@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kushagra Upadhyaya
-- 👀 I’m an Aspiring Data Engineer
-- 🌱 I’m currently learning AWS
+- 👀 I’m an Aspiring Data Analyst
+- 🌱 I’m currently learning new skiils to become Data Engineer
 - 📫 You can reach me on my mail id upadhyayakushagra4@gmail.com
 
 <!---
